@@ -1,3 +1,9 @@
+Obsolete with Docker RC1
+========================
+VPN is now supported:
+https://docs.docker.com/docker-for-mac/apple-m1/
+
+
 Workaround for VPN Problem using Docker Tech Preview 1 on Apple Silicon
 =====================================================================
 
